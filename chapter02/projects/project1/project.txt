@@ -1,0 +1,10 @@
+This project consists of designing a C program to serve as a shell interface
+that accepts user commands and then executes each command in a seperate process.
+This project can be completed on any Linux, UNIX, or Mac os X system.
+
+A shell interface gives a user a prompt, after which the next command is entered.
+The example below illustrates the promp osh> and the user's next command; cat prog.c.
+(This command displays the file prog.c on the terminal using the UNIX cat command.)
+
+
+osh> cat prog.c
